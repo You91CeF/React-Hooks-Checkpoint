@@ -1,0 +1,16 @@
+.add-movie {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 20px;
+}
+
+.add-movie input {
+  margin-bottom: 5px;
+}
+
+.add-movie form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
